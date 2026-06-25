@@ -1,0 +1,132 @@
+{
+  "item.terraadventure.originium_shard": "Originium Shard",
+  "item.terraadventure.pure_originium_shard": "Pure Originium Shard",
+  "item.terraadventure.originite_ingot": "Originite Ingot",
+  "item.terraadventure.cabbage": "Cabbage",
+  "item.terraadventure.inkwell": "Inkwell",
+
+
+  "item.terraadventure.spawn_egg_slug_normal": "Originium Slug Spawn Egg",
+  "item.terraadventure.spawn_egg_bitey": "Lesser Ink Spirit Spawn Egg",
+  "item.terraadventure.spawn_egg_fae_seedling": "Fae Seedling Spawn Egg",
+  "item.terraadventure.spawn_egg_cannot": "Mysterious Trader Spawn Egg",
+
+  "entity.terraadventure.slug_normal": "Originium Slug",
+  "entity.terraadventure.bitey": "Lesser Ink Spirit",
+  "entity.terraadventure.fae_seedling": "Fae Seedling",
+  "entity.terraadventure.cannot_goodenough": "Cannot Goodenough",
+
+  "block.terraadventure.originium_crystal_block": "Crystallized Originium Block",
+  "block.terraadventure.originium_bud_cluster": "Crystallized Originium Cluster",
+  "block.terraadventure.originium_bud_small": "Small Originium Bud",
+  "block.terraadventure.originium_bud_medium": "Medium Originium Bud",
+  "block.terraadventure.originium_bud_large": "Large Originium Bud",
+  "block.terraadventure.orirock_block": "Orirock Block",
+  "block.terraadventure.cobbled_orirock": "Cobbled Orirock",
+
+
+
+  "block.terraadventure.blackjungle_log": "Black Jungle Log",
+  "block.terraadventure.blackjungle_wood": "Black Jungle Wood",
+  "block.terraadventure.blackjungle_stripped_log": "Stripped Black Jungle Log",
+  "block.terraadventure.blackjungle_stripped_wood": "Stripped Black Jungle Wood",
+  "block.terraadventure.blackjungle_leaves": "Black Jungle Leaves",
+  "block.terraadventure.blackjungle_planks": "Black Jungle Planks",
+
+  "block.terraadventure.palm_log": "Palm Log",
+  "block.terraadventure.palm_wood": "Palm Wood",
+  "block.terraadventure.palm_stripped_log": "Stripped Palm Log",
+  "block.terraadventure.palm_stripped_wood": "Stripped Palm Wood",
+  "block.terraadventure.palm_leaves": "Palm Leaves",
+  "block.terraadventure.palm_planks": "Palm Planks",
+
+  "block.terraadventure.rimewood_log": "Rimewood Log",
+  "block.terraadventure.rimewood_wood": "Rimewood Wood",
+  "block.terraadventure.rimewood_stripped_log": "Stripped Rimewood Log",
+  "block.terraadventure.rimewood_stripped_wood": "Stripped Rimewood Wood",
+  "block.terraadventure.rimewood_leaves": "Rimewood Leaves",
+  "block.terraadventure.rimewood_planks": "Rimewood Planks",
+
+
+  "block.terraadventure.city_plating_large": "Large City Plating",
+  "block.terraadventure.city_plating_bolted": "Bolted City Plating",
+  "block.terraadventure.city_plating_beamed": "Beamed City Plating",
+  "block.terraadventure.city_plating_reinforced": "Reinforced City Plating",
+  "block.terraadventure.city_plating_pillar": "City Plating Pillar",
+  "block.terraadventure.city_plating_stairs": "City Plating Stairs",
+  "block.terraadventure.city_plating_large_slab": "Large City Plating Slab",
+  "block.terraadventure.city_plating_bolted_slab": "Bolted City Plating Slab",
+  "block.terraadventure.city_plating_beamed_slab": "Beamed City Plating Slab",
+  "block.terraadventure.city_plating_reinforced_slab": "Reinforced City Plating Slab",
+  "block.terraadventure.city_plating_button": "City Plating Button",
+  "block.terraadventure.city_plating_pressure_plate": "City Plating Pressure Plate",
+
+  "block.terraadventure.city_plating_large_rusted": "Rusted Large City Plating",
+  "block.terraadventure.city_plating_bolted_rusted": "Rusted Bolted City Plating",
+  "block.terraadventure.city_plating_beamed_rusted": "Rusted Beamed City Plating",
+  "block.terraadventure.city_plating_reinforced_rusted": "Rusted Reinforced City Plating",
+  "block.terraadventure.city_plating_pillar_rusted": "Rusted City Plating Pillar",
+  "block.terraadventure.city_plating_stairs_rusted": "Rusted City Plating Stairs",
+  "block.terraadventure.city_plating_large_slab_rusted": "Rusted Large City Plating Slab",
+  "block.terraadventure.city_plating_bolted_slab_rusted": "Rusted Bolted City Plating Slab",
+  "block.terraadventure.city_plating_beamed_slab_rusted": "Rusted Beamed City Plating Slab",
+  "block.terraadventure.city_plating_reinforced_slab_rusted": "Rusted Reinforced City Plating Slab",
+  "block.terraadventure.city_plating_button_rusted": "Rusted City Plating Button",
+  "block.terraadventure.city_plating_pressure_plate_rusted": "Rusted City Plating Pressure Plate",
+
+  "block.terraadventure.heavy_plating_large": "Large Heavy Plating",
+  "block.terraadventure.heavy_plating_bolted": "Bolted Heavy Plating",
+  "block.terraadventure.heavy_plating_beamed": "Beamed Heavy Plating",
+  "block.terraadventure.heavy_plating_reinforced": "Reinforced Heavy Plating",
+  "block.terraadventure.heavy_plating_pillar": "Heavy Plating Pillar",
+  "block.terraadventure.heavy_plating_stairs": "Heavy Plating Stairs",
+  "block.terraadventure.heavy_plating_large_slab": "Large Heavy Plating Slab",
+  "block.terraadventure.heavy_plating_bolted_slab": "Bolted Heavy Plating Slab",
+  "block.terraadventure.heavy_plating_beamed_slab": "Beamed Heavy Plating Slab",
+  "block.terraadventure.heavy_plating_reinforced_slab": "Reinforced Heavy Plating Slab",
+  "block.terraadventure.heavy_plating_button": "Heavy Plating Button",
+  "block.terraadventure.heavy_plating_pressure_plate": "Heavy Plating Pressure Plate",
+
+  "block.terraadventure.sleek_plating_large": "Large Sleek Plating",
+  "block.terraadventure.sleek_plating_exposed": "Exposed Sleek Plating",
+  "block.terraadventure.sleek_plating_beamed": "Beamed Sleek Plating",
+  "block.terraadventure.sleek_plating_reinforced": "Reinforced Sleek Plating",
+  "block.terraadventure.sleek_plating_pillar": "Sleek Plating Pillar",
+  "block.terraadventure.sleek_plating_stairs": "Sleek Plating Stairs",
+  "block.terraadventure.sleek_plating_large_slab": "Large Sleek Plating Slab",
+  "block.terraadventure.sleek_plating_exposed_slab": "Exposed Sleek Plating Slab",
+  "block.terraadventure.sleek_plating_beamed_slab": "Beamed Sleek Plating Slab",
+  "block.terraadventure.sleek_plating_reinforced_slab": "Reinforced Sleek Plating Slab",
+  "block.terraadventure.sleek_plating_button": "Sleek Plating Button",
+  "block.terraadventure.sleek_plating_pressure_plate": "Sleek Plating Pressure Plate",
+
+  "block.terraadventure.lateran_shingle_block": "Blue Shingles Block",
+  "block.terraadventure.lateran_shingle_stairs": "Blue Shingles Stairs",
+  "block.terraadventure.lateran_shingle_slab": "Blue Shingles Slab",
+
+  "block.terraadventure.jade_shingle_block": "Jade Shingles Block",
+  "block.terraadventure.jade_shingle_stairs": "Jade Shingles Stairs",
+  "block.terraadventure.jade_shingle_slab": "Jade Shingles Slab",
+
+  "block.terraadventure.grey_shingle_block": "Grey Shingles Block",
+  "block.terraadventure.grey_shingle_stairs": "Grey Shingles Stairs",
+  "block.terraadventure.grey_shingle_slab": "Grey Shingles Slab",
+
+
+
+
+  "block.terraadventure.originium_reactor": "Originium Reactor",
+  "block.terraadventure.originium_refiner": "Originium Refiner",
+  "block.terraadventure.originium_infuser": "Originium Infuser",
+  "block.terraadventure.originium_machine_casing": "Originium Machine Casing",
+
+  "block.terraadventure.monastery_statue": "Holy Statue",
+
+
+
+  "creativetab.terraadventuretab": "Terra: An Adventure",
+
+
+  "bitey.unnamed": "Unnamed",
+  "bitey.upgrades": "Upgrades"
+}
