@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "M": {
+      "item": "terraadventuremod:raw_manganese"
+    },
+    "W": {
+      "item": "minecraft:water_bucket"
+    }
+  },
+  "pattern": [
+    "MMM",
+    "MWM",
+    "MMM"
+  ],
+  "result": {
+    "count": 1,
+    "id": "terraadventuremod:manganese_block"
+  }
+}

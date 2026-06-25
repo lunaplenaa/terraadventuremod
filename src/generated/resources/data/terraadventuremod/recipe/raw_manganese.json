@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "terraadventuremod:manganese_block"
+    }
+  ],
+  "result": {
+    "count": 8,
+    "id": "terraadventuremod:raw_manganese"
+  }
+}

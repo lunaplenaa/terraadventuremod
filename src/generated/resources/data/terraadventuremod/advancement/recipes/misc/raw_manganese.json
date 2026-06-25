@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_manganese_block": {
+      "conditions": {
+        "items": [
+          {
+            "items": "terraadventuremod:manganese_block"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "terraadventuremod:raw_manganese"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_manganese_block"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "terraadventuremod:raw_manganese"
+    ]
+  }
+}
