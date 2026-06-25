@@ -16,6 +16,10 @@
   "entity.terraadventuremod.fae_seedling": "Fae Seedling",
   "entity.terraadventuremod.cannot_goodenough": "Cannot Goodenough",
 
+
+  "block.terraadventuremod.originium_ore": "Originium Ore",
+  "block.terraadventuremod.originium_ore_deepslate": "Deepslate Originium Ore",
+  "block.terraadventuremod.originium_ore_nether": "Nether Originium Ore",
   "block.terraadventuremod.originium_crystal_block": "Crystallized Originium Block",
   "block.terraadventuremod.originium_bud_cluster": "Crystallized Originium Cluster",
   "block.terraadventuremod.originium_bud_small": "Small Originium Bud",
@@ -25,7 +29,7 @@
   "block.terraadventuremod.cobbled_orirock": "Cobbled Orirock",
 
   "block.terraadventuremod.manganese_ore": "Manganese Ore",
-
+  "block.terraadventuremod.manganese_block": "Block of Manganese",
 
 
   "block.terraadventuremod.blackjungle_log": "Black Jungle Log",

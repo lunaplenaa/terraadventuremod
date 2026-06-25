@@ -21,18 +21,26 @@ public class TerraAdventureCreativeModeTabs {
                     .title(Component.translatable("creativetab.terraadventuremod.itemstab"))
                     .displayItems((itemDisplayParameters, output) -> {
                         output.accept(TerraAdventureItems.ORIGINIUM_SHARD);
+                        output.accept(TerraAdventureItems.PURE_ORIGINIUM_SHARD);
+                        output.accept(TerraAdventureItems.RAW_MANGANESE);
                     }).build());
 
     public static final Supplier<CreativeModeTab> TAA_BLOCKS_TAB = CREATIVE_MODE_TAB.register("terra_adventure_blocks_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(Items.DIRT))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(TerraAdventureBlocks.ORIGINIUM_ORE))
                     .withTabsBefore(ResourceLocation.fromNamespaceAndPath(TerraAdventureMod.MODID, "terra_adventure_items_tab"))
                     .withTabsAfter(ResourceLocation.fromNamespaceAndPath(TerraAdventureMod.MODID, "terra_adventure_equipment_tab"))
                     .title(Component.translatable("creativetab.terraadventuremod.blockstab"))
                     .displayItems((itemDisplayParameters, output) -> {
-                        output.accept(TerraAdventureItems.ORIGINIUM_SHARD);
+                        output.accept(TerraAdventureBlocks.ORIGINIUM_ORE);
+                        output.accept(TerraAdventureBlocks.DEEPSLATE_ORIGINIUM_ORE);
+                        output.accept(TerraAdventureBlocks.NETHER_ORIGINIUM_ORE);
+                        output.accept(TerraAdventureBlocks.CRYSTALLIZED_ORIGINIUM_BLOCK);
+                        output.accept(TerraAdventureBlocks.MANGANESE_ORE);
+                        output.accept(TerraAdventureBlocks.DEEPSLATE_MANGANESE_ORE);
+                        output.accept(TerraAdventureBlocks.MANGANESE_BLOCK);
                     }).build());
 
-    public static final Supplier<CreativeModeTab> TAA_equipment_TAB = CREATIVE_MODE_TAB.register("terra_adventure_equipment_tab",
+    public static final Supplier<CreativeModeTab> TAA_EQUIPMENT_TAB = CREATIVE_MODE_TAB.register("terra_adventure_equipment_tab",
             () -> CreativeModeTab.builder().icon(() -> new ItemStack(Items.DIAMOND_SWORD))
                     .withTabsBefore(ResourceLocation.fromNamespaceAndPath(TerraAdventureMod.MODID, "terra_adventure_blocks_tab"))
                     .withTabsAfter(ResourceLocation.fromNamespaceAndPath(TerraAdventureMod.MODID, "terra_adventure_spawneggs_tab"))
@@ -51,7 +59,7 @@ public class TerraAdventureCreativeModeTabs {
                     }).build());
 
     public static final Supplier<CreativeModeTab> TAA_MSIC_TAB = CREATIVE_MODE_TAB.register("terra_adventure_misc_tab",
-            () -> CreativeModeTab.builder().icon(() -> new ItemStack(Items.EGG))
+            () -> CreativeModeTab.builder().icon(() -> new ItemStack(Items.ZOMBIE_HEAD))
                     .withTabsBefore(ResourceLocation.fromNamespaceAndPath(TerraAdventureMod.MODID, "terra_adventure_spawneggs_tab"))
                     .title(Component.translatable("creativetab.terraadventuremod.misctab"))
                     .displayItems((itemDisplayParameters, output) -> {

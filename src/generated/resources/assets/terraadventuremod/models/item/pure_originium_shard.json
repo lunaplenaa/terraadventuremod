@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "terraadventuremod:item/pure_originium_shard"
+  }
+}

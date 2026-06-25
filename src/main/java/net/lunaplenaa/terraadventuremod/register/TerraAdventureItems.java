@@ -15,6 +15,9 @@ public class TerraAdventureItems {
     public static final DeferredItem<Item> PURE_ORIGINIUM_SHARD = ITEMS.register("pure_originium_shard",
             () -> new Item(new Item.Properties()));
 
+    public static final DeferredItem<Item> RAW_MANGANESE = ITEMS.register("raw_manganese",
+            () -> new Item(new Item.Properties()));
+
     public static void register(IEventBus eventBus) {
         ITEMS.register(eventBus);
     }
